@@ -1,6 +1,6 @@
-# 💫 About Me:
-A Self Motivated Frontend Developer<br>A Type of boy who loves Nature 😍<br>I am currently learning React <br>Ask me about Development and Designing <br>Follow me on GitHub If you love my Projects 😇
-<br>You can call me Ayu
+# 💫 About Me :
+I am currently learning React <br>Ask me about Development and Designing <br>If you are Here then press the follow button😇
+<br>You can call me Ayu :)
 
 
 ## 🌐 Socials:
