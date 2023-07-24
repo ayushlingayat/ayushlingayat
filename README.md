@@ -1,5 +1,5 @@
 # 💫 About Me :
-I am currently learning React <br>Ask me about Development and Designing <br>If you are Here then press the follow button😇
+Ask me about Development and Designing <br>If you are Here then press the follow button😇
 <br>You can call me Ayu :)
 
 
