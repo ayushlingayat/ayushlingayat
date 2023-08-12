@@ -1,5 +1,5 @@
 # 💫 About Me :
-Ask me about Development and Designing <br>If you are Here then press the follow button😇
+Ask me about Development and Designing <br>If you are Here then press the follow button
 <br>You can call me Ayu :)
 
 
