@@ -1,22 +1,34 @@
 <body>
-<h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
+<h1 align="center"> 💕 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 💕 </h1>
 <br>
 <div align="center">
 </div>
 <br>
-<img src="./entry.gif" height ="80px" width ="100%">
+    <div align="center">
+        <img src="./entry.gif" height ="200px" width ="200px">
+    </div>
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="./image/about-me.gif?raw=true" height = "220px" align="right">
-<li>
-<b>Name:</b>Ayush Lingayat</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Hobby:</b> Problem Solving, Tech stuff, Web Development, and watching animes...
-</li>
+    <div aling="center">
+        <img src="./tongue_boy.gif" height = "220px" align="right">
+        <p>
+        <b>Name:</b> Ayush Lingayat</p>
+        <p>
+        <b>Gender:</b> Male
+        </p>
+        <p>
+        <b>Hobby:</b> Problem Solving, Tech stuff, Web Development, and watching animes...
+        </p>
+    </div>
+
+
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
@@ -33,58 +45,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="54" height="54" style="vertical-align:top; margin:4px;">
 
-<p><b>     Thanks for reading about my personal stuff<br>
-                                 💯😍</b></p>
+
 </div>
-<br>
 <div>
-<br>
-<img align="center" src = "./image/hxh.gif" width = "100%" height="350px">
-<div>
-    <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
-    <img src ="./image/line2.gif" align ="right">
-    <br>
-    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div>
-<h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
+<img align="center" src = "./konichiva.gif" width = "100%" height="350px">
 <div align="center">
-<img src="./image/the-end.gif" width = "100%">
+  <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>  
+    <img src="./last_naruto.gif" width = "40%" height="40%"
 </div>
+<br>
+<br>
+<br>
+<br>
 <hr>
-</div>
-
-</div>
 </body>
-
-
-</p>
-<h2></h2>
-<br><br><br><br><br>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ayushlingayat&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <p><b>Take Care People</b></p>
+</div>
