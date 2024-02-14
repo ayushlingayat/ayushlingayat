@@ -10,7 +10,7 @@
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
     <div aling="center">
-        <img src="./tongue_boy.gif" height = "220px" align="right">
+        <img src="./tongue_boy.gif" height = "45px" align="right">
         <p>
         <b>Name:</b> Ayush Lingayat</p>
         <p>
@@ -48,7 +48,7 @@
 
 </div>
 <div>
-<img align="center" src = "./konichiva.gif" width = "100%" height="350px">
+<img align="center" src = "./konichiva.gif" width = "350px" height="350px">
 <div align="center">
   <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>  
     <img src="./last_naruto.gif" width = "40%" height="40%"
