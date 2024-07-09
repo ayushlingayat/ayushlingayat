@@ -1,58 +1,52 @@
-<body>
-<h1 align="center"> 💕 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 💕 </h1>
-<br>
-<div align="center">
-</div>
-<br>
-    <div align="center">
-        <img src="./entry.gif" height ="200px" width ="200px">
-    </div>
-<div>
-<h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-    <div aling="center">
-        <p>
-        <b>Name:</b> Ayush Lingayat</p>
-        <p>
-        <b>Gender:</b> Male
-        </p>
-        <p>
-        <b>Hobby:</b> Problem Solving, Tech stuff, Web Development, and watching animes...
-        </p>
-    </div>
+# ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
+
+## 🌟 I Believe In
+
+ > "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।  
+  > मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"  
+  > — Bhagavad Gita
+
+  > "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, nor be attached to inaction."
+> 
+
+🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊
+
+**Name:** Ayush Lingayat  
+**Current Education:** Master in Computer Application 
+
+**Loves:** Coding ,Anime, Playing Games, Writing thoughts  
+**Gender:** Male 
 
 
-<br>
+<h3>🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 </h3> 
 
-<h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
-<br>
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="docker" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="54" height="54" style="vertical-align:top; margin:4px;">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-0A0A0A?style=for-the-badge&logo=dsa&logoColor=white)
+
+<h3>* ~💖 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 💖 ~*</h3>
+
+* _[LinkedIn](https://www.linkedin.com/in/ayush-lingayat/)_
+* _[Instagram](https://www.instagram.com/lingayat_ayu?igsh=MWprYnBzZWNwbWlnNA==)_
+* _[LeetCode](https://leetcode.com/u/Ayush_Lingayat/)_
+* _[GeeksforGeeks](https://www.geeksforgeeks.org/user/lingayatayush3/)_
+
+## 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝
+
+<h4>📬My email is :</h4> 
+<h2>𝓁𝒾𝓃𝑔𝒶𝓎𝒶𝓉𝒶𝓎𝓊𝓈𝒽𝟥@𝑔𝓂𝒶𝒾𝓁.𝒸🌞𝓂</h2>
+
+![Panda GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5aGM3M3Q2OG03azBmdnliMndscXZhNjV5emh5YnNrZGM0empnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OcsWvaPQut7IHmmqx/giphy.webp)
 
 
-</div>
-<div align="center">
-<img align="center" src = "./konichiva.gif" width = "200px" height="200px">
-</div>
-<div align="center">
-  <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>  
-    <img src="./last_naruto.gif" width = "40%" height="40%"
-</div>
-<br>
-<br>
-<br>
-<br>
-<hr>
-</body>
-<div align="center">
-  <p><b>Take Care People</b></p>
-</div>
+<h3>°°°·.°·..·°¯°·._.·   🐼  𝒯𝒽𝒶𝓃𝓀𝓈 𝒻💖𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔...  🐼   ·._.·°¯°·..·°.·°°°</h3>
+
+
+
