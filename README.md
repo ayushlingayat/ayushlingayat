@@ -4,8 +4,6 @@
   <img src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif" alt="Welcome_GIF" height="300px" width="300px" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush-Lingayat&color=brightgreen&style=flat-square)
-
 
 <h3>𝓐bout Me 😇</h3>
 
