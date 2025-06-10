@@ -1,4 +1,4 @@
-# ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
+# 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayush-Lingayat&color=brightgreen&style=flat-square)
 
@@ -6,15 +6,14 @@
 
 **Name:** Ayush Lingayat  
 **Current Education:** Master in Computer Application  
-**Aspiration:** Future Data Engineer | Full-Stack Developer
+**Aspiration:** Future Data Engineer 
 
-**Loves:** Coding 💻 | Anime 🎥 | Gaming 🎮 | Writing 📝  
+**Loves:** Coding 💻 | Writing 📝  
 **Gender:** Male ♂️  
-
 
 ---
 
-## 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 (Frontend + Data Engineering)
+## 🛠️ TECH STACK LEARNED (Frontend + Data Engineering) COMBO
 
 ### 💻 Programming & Scripting
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +33,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🛠 Tools & DevOps
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -53,3 +52,7 @@
 ## 📩 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~
 
 ### 📬 Email: lingayatayush3@gmail.com
+
+---
+
+![Panda GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5aGM3M3Q2OG03azBmdnliMndscXZhNjV5emh5YnNrZGM0empnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OcsWvaPQut7IHmmqx/giphy.webp)
