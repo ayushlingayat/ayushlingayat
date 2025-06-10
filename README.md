@@ -13,9 +13,6 @@
 **Current Education:** Master in Computer Application  
 **Aspiration:** Future Data Engineer 
 
-**Loves:** Coding 💻 | Writing 📝  
-**Gender:** Male ♂️  
-
 ---
 
 ## 🛠️ TECH STACK LEARNED (Frontend + Data Engineering) COMBO
