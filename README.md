@@ -42,7 +42,7 @@
 
 ---
 
-## 🌐 ~ 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮 ~
+## 🌐 CONNECT WITH ME
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-lingayat/)
 * 📷 [Instagram](https://www.instagram.com/lingayat_ayu?igsh=MWprYnBzZWNwbWlnNA==)
@@ -51,7 +51,7 @@
 
 ---
 
-## 📩 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~
+## 📩 CONTACT ME
 
 ### 📬 Email: lingayatayush3@gmail.com
 
