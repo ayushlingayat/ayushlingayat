@@ -1,6 +1,11 @@
 # 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif" alt="Welcome_GIF" height="300px" width="300px" />
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayush-Lingayat&color=brightgreen&style=flat-square)
+
 
 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊
 
@@ -55,4 +60,3 @@
 
 ---
 
-![Ending_GIF](https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif)
