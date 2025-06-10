@@ -11,8 +11,6 @@
 
 **Name:** Ayush Lingayat  
 **Current Education:** Master in Computer Application  
-**Aspiration:** Future Data Engineer 
-
 ---
 
 ## 🛠️ TECH STACK LEARNED (Frontend + Data Engineering) COMBO
