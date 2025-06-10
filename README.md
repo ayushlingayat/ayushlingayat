@@ -10,10 +10,11 @@
 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊
 
 **Name:** Ayush Lingayat  
+
 **Current Education:** Master in Computer Application  
 ---
 
-## 🛠️ TECH STACK LEARNED (Frontend + Data Engineering) COMBO
+## 🛠️ TECH STACK LEARNED UPTIL NOW
 
 ### 💻 Programming Languages Know 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
