@@ -7,11 +7,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayush-Lingayat&color=brightgreen&style=flat-square)
 
 
-🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊
+<h3>𝓐bout Me 😇</h3>
 
 **Name:** Ayush Lingayat  
 
 **Current Education:** Master in Computer Application  
+
 ---
 
 ## 🛠️ TECH STACK LEARNED UPTIL NOW
