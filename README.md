@@ -1,10 +1,9 @@
-# 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 
+# Welcome to my Profile 💖 
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd3NTN0dXl3Y3JicXNkNzBjdXRyeGRjM2hjanBsZWlieDlkM29tZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nf9OkHHKlpZRK/giphy.gif" alt="Welcome_GIF" height="230px" width="230px" />
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ayushlingayat&color=800080" alt="Visitor Count"/>
 </p>
 
 
